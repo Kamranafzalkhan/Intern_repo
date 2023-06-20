@@ -1,0 +1,8 @@
+#triangle {
+	background-color: #ffffff;
+	clip-path: polygon(0 0, 100% 0, 50% 50% );
+	width: 100px;
+	height: 100px;
+  position: absolute;
+  left: 47%;
+}
